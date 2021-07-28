@@ -8,10 +8,11 @@ The game is a roguelike mobile game
 
 The mission is to survive as much as possible while each round more and more enemies created and become stronger.
 
+## Finished App
 ![Finished App](https://github.com/codename470/Eat-Ur-Veggiez/blob/main/GameGif.gif?raw=true)
 
 
-The game is unfinished and the last goal will include: 
+## Next goals in project:
 
 1. Random maps and traps (check my "First Rougelike game" for design idea)
 2. More players, enemies attacks and animations
