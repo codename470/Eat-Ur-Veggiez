@@ -1,4 +1,4 @@
 # Eat-Ur-Veggiez
  Second game I developed, roguelike game
 
-![Alt Text](https://media.giphy.com/media/PIirm3G8Io8osxBC7X/giphy.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
